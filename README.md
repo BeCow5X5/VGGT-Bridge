@@ -1,11 +1,5 @@
 # VGGT-Bridge: Beyond Sequential Pose Graphs via Coarse-Stride Skip Edges
 
-Sungjae Choi\*, Hanna Bae\*, Sunghyun Baek, Junmo Kim
-
-Korea Advanced Institute of Science and Technology (KAIST)
-
-\* Equal contribution
-
 **ACCV 2026** | [Paper (arXiv)](https://arxiv.org/abs/2610.06594)
 
 ![VGGT-Bridge](assets/teaser.jpg)
@@ -78,6 +72,13 @@ We thank the authors for releasing their code.
 
 ## Citation
 
+If you find our work useful in your research, please consider citing:
+
 ```
-TODO
+@article{choi2026vggtbridge,
+  title   = {VGGT-Bridge: Beyond Sequential Pose Graphs via Coarse-Stride Skip Edges},
+  author  = {Choi, Sungjae and Bae, Hanna and Baek, Sunghyun and Kim, Junmo},
+  journal = {arXiv preprint arXiv:2610.06594},
+  year    = {2026}
+}
 ```
