@@ -75,10 +75,10 @@ We thank the authors for releasing their code.
 If you find our work useful in your research, please consider citing:
 
 ```
-@article{choi2026vggtbridge,
-  title   = {VGGT-Bridge: Beyond Sequential Pose Graphs via Coarse-Stride Skip Edges},
-  author  = {Choi, Sungjae and Bae, Hanna and Baek, Sunghyun and Kim, Junmo},
-  journal = {arXiv preprint arXiv:2610.06594},
-  year    = {2026}
+@article{choi2026vggt,
+  title={VGGT-Bridge: Beyond Sequential Pose Graphs via Coarse-Stride Skip Edges},
+  author={Choi, Sungjae and Bae, Hanna and Baek, Sunghyun and Kim, Junmo},
+  journal={arXiv preprint arXiv:2610.06594},
+  year={2026}
 }
 ```
